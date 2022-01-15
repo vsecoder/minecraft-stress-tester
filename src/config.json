@@ -2,7 +2,7 @@
   "host": "localhost",
   "port": "25565",
   "count": 3,
-  "prefix": "dodo",
+  "prefix": "vsecoder",
   "authenticationEnabled": true,
   "password": "your_secret_password",
   "loginCommand": "/login {password}",
